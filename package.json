@@ -1,0 +1,22 @@
+{
+  "name": "crud-mongodb",
+  "version": "1.0.0",
+  "description": "Tutorial MongoDB",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davicouto530/CRUD-MongoDB.git"
+  },
+  "author": "Davi do couto",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/Davicouto530/CRUD-MongoDB/issues"
+  },
+  "homepage": "https://github.com/Davicouto530/CRUD-MongoDB#readme",
+  "dependencies": {
+    "mongoose": "^8.12.1"
+  }
+}
